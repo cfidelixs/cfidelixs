@@ -3,7 +3,7 @@
 Hi, My name is Caio Fidelis 🎃
 =============================
 
-Information Systems student 
+Information Systems Student 
 -------------------------
 <ul>
   <li> 🎃 I´m a information systems student at the Federal University of Brazil (UFS). </li>
