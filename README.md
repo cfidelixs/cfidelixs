@@ -27,6 +27,6 @@ Web Developer / Front-End
   Contacte Me
   </p>
   
-  <a link href "https://mail.google.com/mail/u/0/#inbox"> <img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
+  <a link href "https://www.linkedin.com/in/caio-fidelis-224286264/"> <img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
 
 
