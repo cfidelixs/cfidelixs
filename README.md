@@ -6,7 +6,7 @@ Hi, My name is Caio Fidelis 🎃
 Information Systems student 
 -------------------------
 <ul>
-  <li> 🎃 I am an information systems student at the Federal University of Brazil (UFS). </li>
+  <li> 🎃 I´m a information systems student at the Federal University of Brazil (UFS). </li>
   <li> 🎃 Improving at Javascript| C#| </li>
   </ul
 <br>
