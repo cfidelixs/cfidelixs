@@ -6,7 +6,7 @@ Hi, My name is Caio Fidelis 🎃
 Web Developer / Front-End
 -------------------------
 
-I am an information systems student at the Federal University of Brazil (UFS). <br>
+I am an information systems student at the Federal University of Brazil (UFS).
 <br>
 <h1> <b> Skills: </b> </h1>
 <p align="left">
