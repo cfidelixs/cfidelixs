@@ -24,7 +24,7 @@ Information Systems student
 </p>
   
 <img src "![9dc06c2010f91efe5f3c822607c8289f](https://github.com/cfidelixs/cfidelixs/assets/136432144/3efd1ced-7135-4eaf-a023-d35a9826ec75)
-" height "50px">
+">
   
 
 
